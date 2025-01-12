@@ -1,4 +1,4 @@
-// event propogation - order the events are fired
+// event propagation - order the events are fired
 // event bubbling - clicked element first then bubbles up -- default
 // event capturing - fires at the root and fires until reaches target
 
@@ -12,7 +12,7 @@ function showBubbling(e) {
   //   console.log('you clicked on the link');
   // }
 }
-function stopPropogation(e) {
+function stopPropagation(e) {
   e.stopPropagation();
 }
 
