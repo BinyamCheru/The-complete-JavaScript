@@ -1,5 +1,5 @@
 // allows select dynamic elements
-// event propogation - order the events are fired
+// event propagation - order the events are fired
 // event bubbling - clicked element first then bubbles up -- default
 
 const container = document.querySelector('.container');
