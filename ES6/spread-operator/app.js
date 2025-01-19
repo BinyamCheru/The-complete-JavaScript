@@ -1,5 +1,5 @@
 // Spread Operator ...
-// Allows an iterable to spread/expand individually inside reciever
+// Allows an iterable to spread/expand individually inside receiver
 // Split into single items and copy them.
 
 const udemy = 'udemy';
